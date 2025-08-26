@@ -6,6 +6,7 @@ You can return the answer in any order."""
 
 """
 BEST SOLUTION
+HashMap (I used this)
 Intuition: Store numbers already seen in a HashMap to quickly check if the complement `target - nums[i]` has already appeared.
 - Time complexity: O(n)
 - Space complexity: O(n)
